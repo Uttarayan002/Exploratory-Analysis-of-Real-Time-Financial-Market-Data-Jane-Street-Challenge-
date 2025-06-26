@@ -1,0 +1,24 @@
+EDA-of-Jane-Street-Real-Time-Market-Data-Forecasting-Competition/  
+│               
+├── data/                  # Raw & processed data (or links if too large)  
+│   ├── raw/                  # Original datasets (CSV, JSON, etc.)  
+│   └── processed/            # Cleaned/transformed data (if applicable)  
+│
+├── notebooks/             # Jupyter notebooks (or RMarkdown)  
+│   ├── 1_data_cleaning.ipynb  
+│   ├── 2_exploratory_analysis.ipynb  
+│   └── 3_advanced_eda.ipynb  # (Optional: deeper dives)  
+│
+├──  reports/               # PDF/HTML reports, slides (if any)  
+│   └── eda_summary.pdf  
+│
+├── visuals/               # Exported plots (PNG/SVG) for README/docs  
+│   ├── distributions.png  
+│   ├── correlations_heatmap.png  
+│   └── trends_over_time.png  
+│
+├── scripts/               # (Optional) Helper scripts for automation  
+│   ├── data_cleaning.py  
+│   └── plot_utils.py  
+│
+└── 📄 .gitignore             # Exclude large files, secrets, IDE files  
