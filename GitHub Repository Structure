@@ -21,4 +21,4 @@ EDA-of-Jane-Street-Real-Time-Market-Data-Forecasting-Competition/
 │   ├── data_cleaning.py  
 │   └── plot_utils.py  
 │
-└── 📄 .gitignore             # Exclude large files, secrets, IDE files  
+└── .gitignore             # Exclude large files, secrets, IDE files  
