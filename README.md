@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-of-Jane-Street-Real-Time-Market-Data-Forecasting-Competition ☢️ on-going 
+# Exploratory-Data-Analysis-of-Real-Time-Market-Data-Forecasting  ☢️ on-going 
